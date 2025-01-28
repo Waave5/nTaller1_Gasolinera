@@ -1,0 +1,13 @@
+tipo:Movistar:10000000:1.0
+tipo:Dell:50000:400.0
+tipo:Don Jaime:20:10.0
+tipo:Terpel:20000:100.0
+surtidor:Raúl:Movistar:0.0:Dell:0.0:Don Jaime:0.0:Terpel:0.0
+surtidor:Px3:Movistar:0.0:Dell:0.0:Don Jaime:0.0:Terpel:0.0
+surtidor:Don Jaime:Movistar:0.0:Dell:0.0:Don Jaime:0.0:Terpel:0.0
+surtidor:Alex:Movistar:0.0:Dell:0.0:Don Jaime:0.0:Terpel:0.0
+empleado:Alex:0
+empleado:Gerardo Díaz:0
+empleado:Don Jaime:0
+empleado:Raúl:0
+empleado:Px3:0
